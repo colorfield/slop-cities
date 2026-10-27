@@ -99,6 +99,7 @@ Entries marked *(source only)* have no live demo yet; clone and serve locally.
 - **Warsaw, Poland** - [Play](https://tinywarsaw.app/) · [Tweet](https://x.com/OrestesGaolin/status/2114423799382679687) - by [@OrestesGaolin](https://x.com/OrestesGaolin). Tiny Warsaw.
 - **Warsaw, Poland (Isometric Warsaw)** - [Play](https://bedirhanyildirim.com/warsaw-izo/) · [Tweet](https://x.com/bedcodes/status/2113176644479229953) - by [@bedcodes](https://x.com/bedcodes). The whole city as an isometric pixel-art map from OSM and GUGiK data, with real sun, seasons and Vistula levels, and trams and trains running to their timetables.
 - **Warsaw, Poland (Szczęśliwe Bielany)** - [Source](https://github.com/keymaker2005/szczesliwe-bielany) - by [keymaker2005](https://github.com/keymaker2005). Bielany along the M1 metro line (Stare Bielany, Wawrzyszew, Młociny) on a golden-autumn day. *(source only)*
+- **Zürich, Switzerland** - [Play](https://zurich.pocketswitzerland.ch) · [Source](https://github.com/colorfield/slop-zurich) - by [colorfield](https://github.com/colorfield). Slop Zürich: the inner city at 1:1 on its real relief from swisstopo buildings and terrain, with trams, on foot, by bike, cargo bike, car or helicopter.
 
 ### North America
 
